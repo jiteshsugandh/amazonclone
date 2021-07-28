@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jiteshsugandh/amazonclone.git/static/css/main.2e397a23.chunk.css",
+    "main.js": "/jiteshsugandh/amazonclone.git/static/js/main.73db46d9.chunk.js",
+    "main.js.map": "/jiteshsugandh/amazonclone.git/static/js/main.73db46d9.chunk.js.map",
+    "runtime-main.js": "/jiteshsugandh/amazonclone.git/static/js/runtime-main.8aff8790.js",
+    "runtime-main.js.map": "/jiteshsugandh/amazonclone.git/static/js/runtime-main.8aff8790.js.map",
+    "static/js/2.9bc916e3.chunk.js": "/jiteshsugandh/amazonclone.git/static/js/2.9bc916e3.chunk.js",
+    "static/js/2.9bc916e3.chunk.js.map": "/jiteshsugandh/amazonclone.git/static/js/2.9bc916e3.chunk.js.map",
+    "static/js/3.bed6f867.chunk.js": "/jiteshsugandh/amazonclone.git/static/js/3.bed6f867.chunk.js",
+    "static/js/3.bed6f867.chunk.js.map": "/jiteshsugandh/amazonclone.git/static/js/3.bed6f867.chunk.js.map",
+    "index.html": "/jiteshsugandh/amazonclone.git/index.html",
+    "static/css/main.2e397a23.chunk.css.map": "/jiteshsugandh/amazonclone.git/static/css/main.2e397a23.chunk.css.map",
+    "static/js/2.9bc916e3.chunk.js.LICENSE.txt": "/jiteshsugandh/amazonclone.git/static/js/2.9bc916e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aff8790.js",
+    "static/js/2.9bc916e3.chunk.js",
+    "static/css/main.2e397a23.chunk.css",
+    "static/js/main.73db46d9.chunk.js"
+  ]
+}
